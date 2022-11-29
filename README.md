@@ -6,3 +6,7 @@ Some description goes here, yeah!
 
 I'm tired!
 And now I'm hungry too...
+
+## Local Development
+
+1. Open index.html in your browser
